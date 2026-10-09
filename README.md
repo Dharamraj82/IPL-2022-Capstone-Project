@@ -1,5 +1,4 @@
 # IPL-2022-Capstone-Project
-**These are some of the important columns that we'll focus on for meaningful insights in this project.**
 
 **column names: Variable Type**
 * date : string  
@@ -19,4 +18,5 @@
 * highscore : integer  
 * best_bowling : string  
 * best_bowling_fgure : string  
-gure : string  
+* best_bowling_figure : string  
+
